@@ -1,4 +1,3 @@
-
 # Weekly Learning Reviews
 
 This folder contains weekly reflections on learning progress, practical development activities, challenges and improvements.
@@ -15,39 +14,39 @@ Create a separate Markdown file for each week using the following structure.
 
 ## 1. Weekly Objectives
 
-- 
-- 
-- 
+-
+-
+-
 
 ## 2. Topics Covered
 
-- 
-- 
-- 
+-
+-
+-
 
 ## 3. Practical Work Completed
 
-- 
-- 
-- 
+-
+-
+-
 
 ## 4. Achievements
 
-- 
+-
 
 ## 5. Challenges & Areas for Improvement
 
-- 
+-
 
 ## 6. Key Learnings
 
-- 
+-
 
 ## 7. Projects & Deliverables
 
 | Project / Task | Status | Link |
-|---|---|---|
-| | | |
+| -------------- | ------ | ---- |
+|                |        |      |
 
 ## 8. Self-Assessment
 
@@ -59,9 +58,9 @@ Create a separate Markdown file for each week using the following structure.
 
 ## 9. Priorities for Next Week
 
-- 
-- 
-- 
+-
+-
+-
 
 ---
 
