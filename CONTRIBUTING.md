@@ -1,4 +1,3 @@
-
 # Contributing Guidelines
 
 Thank you for your interest in contributing to **Full-Stack Development with AI Integration**!
@@ -12,27 +11,32 @@ Constructive feedback, useful resources, technical suggestions and improvements 
 You can contribute in several ways:
 
 ### Learning Resources
+
 - Share useful documentation, tutorials, courses and technical articles.
 - Recommend resources that explain concepts clearly and practically.
 - Suggest better learning paths for particular technologies.
 
 ### Roadmap Improvements
+
 - Recommend important topics that should be included.
 - Identify gaps in the existing learning roadmap.
 - Suggest practical exercises and coding challenges.
 
 ### Project Ideas
+
 - Propose real-world application ideas.
 - Suggest projects that combine frontend, backend and AI technologies.
 - Recommend improvements to existing project ideas.
 
 ### Documentation Improvements
+
 - Correct technical inaccuracies.
 - Improve explanations and documentation.
 - Fix broken links and outdated references.
 - Improve repository organisation and readability.
 
 ### Technical Contributions
+
 - Share useful code examples.
 - Suggest development tools and best practices.
 - Contribute improvements to practical examples and projects.
