@@ -229,6 +229,49 @@ The `pnpm-workspace.yaml` configuration defines the workspace directories.
 
 Applications and packages can maintain their own `package.json` files and dependencies while sharing the root workspace configuration.
 
+## 🧹 Code Quality & Formatting
+
+This repository uses ESLint and Prettier to maintain consistent code quality and formatting across JavaScript and TypeScript projects.
+
+### ESLint – Code Quality
+
+[ESLint](https://eslint.org/) is used to identify potential programming errors, problematic coding patterns and code-quality issues.
+
+The repository uses ESLint's Flat Config approach, configured through the root `eslint.config.js` file.
+
+Run the following commands from the repository root:
+
+| Operation | Command |
+| --------- | ------- |
+| Check code for linting issues | `pnpm run lint` |
+| Automatically fix fixable issues | `pnpm run lint:fix` |
+
+### Prettier – Code Formatting
+
+[Prettier](https://prettier.io/) is used to maintain consistent code formatting across supported file types, including JavaScript, TypeScript, HTML, CSS, JSON, YAML and Markdown.
+
+Formatting rules are defined in `.prettierrc.json`.
+
+Run the following commands from the repository root:
+
+| Operation | Command |
+| --------- | ------- |
+| Format supported files | `pnpm exec prettier --write .` |
+| Check formatting without modifying files | `pnpm exec prettier --check .` |
+
+### Development Guidelines
+
+- Use ESLint to identify and resolve code-quality issues.
+- Use Prettier for consistent code formatting.
+- VS Code is configured to format supported files automatically on save.
+- Run linting and formatting checks before committing changes.
+- Avoid disabling linting rules without a valid technical reason.
+- Follow the shared repository configuration when contributing new applications or packages.
+
+ESLint and Prettier configurations are maintained centrally at the repository root to promote consistent development practices across the workspace.
+
+Technology-specific linting rules and configurations may be extended as React, Next.js and other frameworks are introduced.
+
 ## 🚀 Practical Development & Portfolio Projects
 
 Learning will be reinforced through hands-on development rather than theory alone.
