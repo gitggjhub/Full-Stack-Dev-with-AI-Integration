@@ -241,9 +241,9 @@ The repository uses ESLint's Flat Config approach, configured through the root `
 
 Run the following commands from the repository root:
 
-| Operation | Command |
-| --------- | ------- |
-| Check code for linting issues | `pnpm run lint` |
+| Operation                        | Command             |
+| -------------------------------- | ------------------- |
+| Check code for linting issues    | `pnpm run lint`     |
 | Automatically fix fixable issues | `pnpm run lint:fix` |
 
 ### Prettier – Code Formatting
@@ -254,9 +254,9 @@ Formatting rules are defined in `.prettierrc.json`.
 
 Run the following commands from the repository root:
 
-| Operation | Command |
-| --------- | ------- |
-| Format supported files | `pnpm exec prettier --write .` |
+| Operation                                | Command                        |
+| ---------------------------------------- | ------------------------------ |
+| Format supported files                   | `pnpm exec prettier --write .` |
 | Check formatting without modifying files | `pnpm exec prettier --check .` |
 
 ### Development Guidelines
